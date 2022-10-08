@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @qigong77
-- 👀  今天我安装了mongodb，开心（0810）
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# React projects
 
-<!---
-qigong77/qigong77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+终端>: ctrl+c 退出
+    cmd + d 新建tab
+    cmd + 1, 2, 3 跳转至tab
+访达:Uppercase + commend + g  查找路径
+npm镜像：npm config get registry
+            https://registry.npm.taobao.org/
+配置镜像： npm config set registry https://registry.npm.taobao.org/
+nrm:
