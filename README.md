@@ -7,4 +7,10 @@
 npm镜像：npm config get registry
             https://registry.npm.taobao.org/
 配置镜像： npm config set registry https://registry.npm.taobao.org/
-nrm:
+nrm: nrm ls 查看所有镜像源
+     nrm use 切换镜像源
+
+git: git config --global user.name "xxx" 
+     git config user.name
+     git config --global user.email "xxx@xxx.com"
+     git config user.email
